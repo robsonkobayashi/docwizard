@@ -1,0 +1,47 @@
+Passo 1 - Geração de senha no teampass
+1a) Efetue login no sistema
+
+1b) Crie uma nova senha (menu > Adicionar item)
+
+
+
+1c) Acesse a aba 'Senha'
+
+1d) Configure as opções conforme complexidade desejada:
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+1e) A senha será exibida após o 'Senha utilizada' se o botão 'Mostra' estiver ativado. Selecione o texto com o auxílio do mouse e acione o comando de copiar (Crtl+C). A senha estará disponível na área de transferência para ser utilizada no sistema desejado (cuidado para não sobrescrever a informação copiando ou recortando outra informação).
+
+Caso a senha deva ser armazenada, você pode salvá-la para consulta posterior. Caso a senha seja de uso único (Ex: vai ser repassada para o usuário), não deve ser salva.
+
+Passo 2 - Geração de senha no LastPass
+1a) Acesse o endereço https://www.lastpass.com/pt/features/password-generator#generatorTool
+
+1b) Configure as opções conforme complexidade desejada e sugestão abaixo:
+
+ 
+
+Muito forte:
+
+
+
+Difícil:
+
+
+
+Muito difícil:
+
+
+
+1c) Adicione um prefixo ou um sufixo para garantir que nem mesmo o site que gerou a senha tenha conhecimento da senha que foi inserida no sistema.

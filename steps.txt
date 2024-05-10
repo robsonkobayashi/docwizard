@@ -1,0 +1,5 @@
+Sugira um Título para o seguinte roteiro:
+Sugira 5 palavras chaves curtas baseado no seguinte roteiro:
+Faça um resumo de apenas uma linha do seguinte roteiro:
+Liste quais são os requisitos técnicos e recursos necessários para que uma pessoa possa executar o seguinte roteiro:
+Liste 3 sites da Internet onde possam ser obtidas mais informações sobre o que está sendo falado no seguinte roteiro:
